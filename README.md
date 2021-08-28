@@ -4,5 +4,9 @@
 - Noklausīties lekciju
 
 Vēl kaut ko padarīt
+
+- [ ] 123
+- [ ] 1234
+
 ## Braukt mājās
 "Pirmie kucēni"
